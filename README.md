@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### My Name is Abraham Onoja
+I am software developer from Nigeria
 
 <!--
 **L-tech/L-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
