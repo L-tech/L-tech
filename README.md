@@ -21,6 +21,6 @@ My name is Abraham Arome Onoja, I'm a Solidity Smart Contract Developer
 
 ### Get in touch with me...
 
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32v1643581958/3586360_email_envelope_mail_send_icon_osyrgh.png' title='Email Me!'>](mailto://legendabrahamonoja@gmail.com)
+[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/3586360_email_envelope_mail_send_icon_osyrgh.png' title='Email Me!'>](mailto://legendabrahamonoja@gmail.com)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/arome_dev)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/abraham-onoja/)
