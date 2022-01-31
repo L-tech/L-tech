@@ -8,14 +8,14 @@ My name is Abraham Arome Onoja, I'm a Solidity Smart Contract Developer
 [![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=L-tech&show_icons=true&theme=radical&hide=stars)](https://github.com/L-tech/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-tech&" alt="yczar" /></p>
 
 
-- 🔭 I’m currently working on Interesting things
-- 🌱 I’m currently learning a lot of interesting things
-- 👯 I’m looking to collaborate on all sort of interesting things
-- 🤔 I’m looking for help with interesting things
-- 💬 Ask me about most interesting things
+- 🔭 I’m currently working on building DApss
+- 🌱 I’m currently learning a lot of Ethereum, Solana, Near, Graph, Chainlink and more
+- 👯 I’m looking to collaborate on all sort of interesting project
+- 🤔 I’m looking for help with interesting challenges
+- 💬 Ask me about anything on blockchain development and the decentralised web
 - 📫 How to reach me: [Arome](https://twitter.com/arome_dev)
-- 😄 Pronouns: That guy 😀 
-- ⚡ Fun fact: I like interesting things
+- 😄 Pronouns: Him/That guy 😀 
+- ⚡ Fun fact: I write just as well as i code
 - reach me faster: [@Arome_dev](https://twitter.com/arome_dev)
 
 
