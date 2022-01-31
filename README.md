@@ -3,7 +3,7 @@
 <!--
 **L-tech/L-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Abraham Arome Onoja, I'm a Solidity Smart Contract Developer
+My name is Abraham Arome Onoja, I'm a Smart Contract Developer from Nigeria
 
 [![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=L-tech&show_icons=true&theme=radical&hide=stars)](https://github.com/L-tech/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-tech&" alt="yczar" /></p>
 
