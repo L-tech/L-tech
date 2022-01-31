@@ -1,4 +1,4 @@
-### Hi there 👋
+### Gm 👋
 
 <!--
 **L-tech/L-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,7 +16,7 @@ My name is Abraham Arome Onoja, I'm a Smart Contract Developer from Nigeria
 - 📫 How to reach me: [Arome](https://twitter.com/arome_dev)
 - 😄 Pronouns: Him/That guy 😀 
 - ⚡ Fun fact: I write just as well as i code
-- reach me faster: [@Arome_dev](https://twitter.com/arome_dev)
+- reach me faster: [@Arome_dev](https://twitter.com/arome_dev) 
 
 
 ### Get in touch with me...
