@@ -11,7 +11,6 @@ My name is Abraham Arome Onoja, I'm a Smart Contract Developer from Nigeria
 - 🔭 I’m currently working on building innovative and cool DApps
 - 🌱 I’m currently learning a lot of Ethereum, Near, Solana, Graph, Chainlink and more
 - 👯 I’m looking to collaborate on all sort of interesting DApps
-- 🤔 I’m looking for help with interesting challenges
 - 💬 Ask me about anything on blockchain development and the decentralised web
 - 📫 How to reach me: Send a DM [Arome](https://twitter.com/arome_dev)
 - 😄 Pronouns: Him 
