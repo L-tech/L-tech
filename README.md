@@ -8,7 +8,7 @@ My name is Abraham Arome Onoja, I'm a Smart Contract Developer from Nigeria
 [![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=L-tech&show_icons=true&theme=radical&hide=stars)](https://github.com/L-tech/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-tech&" alt="yczar" /></p>
 
 
-- 🔭 I’m currently working on building cool DApps
+- 🔭 I’m currently working on building innovative and cool DApps
 - 🌱 I’m currently learning a lot of Ethereum, Near, Solana, Graph, Chainlink and more
 - 👯 I’m looking to collaborate on all sort of interesting DApps
 - 🤔 I’m looking for help with interesting challenges
