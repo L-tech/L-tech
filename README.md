@@ -1,25 +1,28 @@
-### Gm 👋
+---
 
-<!--
-**L-tech/L-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Hey there! 👋
+I'm Arome, a dynamic and passionate software engineer from Nigeria. Specialising in blockchain, backend engineering and distributed systems. I believe in the power of technology to transform lives and I'm committed to making a meaningful impact through my work.
 
-My name is Abraham Arome Onoja, I'm a Smart Contract Developer from Nigeria
+### Currently Engaging Roles
+- **CTO at [NatQuest](https://arconnect.io):** Focusing on a specialized supply chain talent platform.
+- **Founder of [Arnen Depay](https://twitter.com/arnenlabs):** Developing a decentralized payroll system.
 
-[![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=L-tech&show_icons=true&theme=radical&hide=stars)](https://github.com/L-tech/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-tech&" alt="yczar" /></p>
+### Professional Journey
+- Contributed to [Spheron](https://spheron.network), [Indeed](https://indeed.com), and [Vesicash](https://vesicash.com/).
+- Passionate about building developer tools and innovating in tech.
 
+### Skills Showcase
+- **Languages:** Proficient in TypeScript, Go, Solidity, PHP, Rust, and Haskell.
+- **Expertise:** Specialized in backend systems, distributed systems, and blockchain technology.
+- **Cloud and Infrastructure:** Skilled in cloud infrastructure and container orchestration.
+- **Exploration:** Currently delving into the world of Machine Learning.
 
-- 🔭 I’m currently working on building innovative and cool DApps
-- 🌱 I’m currently learning a lot of Ethereum, Near, Solana, Graph, Chainlink and more
-- 👯 I’m looking to collaborate on all sort of interesting DApps
-- 💬 Ask me about anything on blockchain development and the decentralised web
-- 📫 How to reach me: Send a DM [Arome](https://twitter.com/arome_dev)
-- 😄 Pronouns: Him 
-- ⚡ Fun fact: I write just as well as i code. Check Out of my [publication](https://mirror.xyz/0xA05d173F369263fB697e1a0e214b107b59237400/5rxm-vDHlyxHYDwM_Ee5pBFcTttQoau27tFQXltrask)
-- reach me faster: [@Arome_dev](https://twitter.com/arome_dev) 
+### Let's Connect!
+- **Portfolio:** [arome.dev](https://arome.dev)
+- **Twitter:** [@arome_dev](https://twitter.com/arome_dev)
+- **LinkedIn:** [Abraham Onoja](https://linkedin.com.in/abraham-onoja)
+- **Mirror:** [Abraham Onoja](http://mirror.xyz/arome.eth)
 
+Looking forward to connecting and collaborating on exciting projects!
 
-### Get in touch with me...
-
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](mailto://legendabrahamonoja@gmail.com)
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/arome_dev)
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/abraham-onoja/)
+---
